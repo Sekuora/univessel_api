@@ -1,0 +1,15 @@
+// Univessel API
+// Connection objects - CMake templates
+{
+  "templates": [
+    {
+      // Pre
+      "name": "Cmake_default_template",
+      "url": ""
+    },
+    {
+      "name": "Cmake_test_template",
+      "url": ""
+    }
+  ]
+}
