@@ -4,7 +4,7 @@
   "templates": [
     {
       "name": "CMake_default_template",
-      "url": ""
+      "url": "https://github.com/Sekuora/univessel_api/blob/main/Univessel/Source/BuildtoolsVessel/CMake/Templates/test_template/CMakeLists.txt"
     },
     {
       "name": "CMake_test_template",
