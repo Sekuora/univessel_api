@@ -3,4 +3,4 @@
 - Establishing a connection and fetching data from this API is one of the main aspects of development thus far.
 
 # Not an API
-- Not a full fledged API yet but servest to test the univessel system to grab templates and more.
+- Not a full fledged API yet but works to test the univessel system to grab templates and more.
