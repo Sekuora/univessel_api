@@ -3,7 +3,6 @@
 {
   "templates": [
     {
-      // Pre
       "name": "CMake_default_template",
       "url": ""
     },
