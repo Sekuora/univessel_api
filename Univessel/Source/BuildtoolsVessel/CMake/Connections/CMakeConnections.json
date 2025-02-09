@@ -4,11 +4,11 @@
   "templates": [
     {
       // Pre
-      "name": "Cmake_default_template",
+      "name": "CMake_default_template",
       "url": ""
     },
     {
-      "name": "Cmake_test_template",
+      "name": "CMake_test_template",
       "url": ""
     }
   ]
